@@ -8,19 +8,16 @@
 #include <util/delay.h>
 #include <uart.h>
 
-// Definice pinů
-#define TRIGER 1
-#define ECHO 2
+// Pin definition
+#define TRIGER 5
+#define ECHO 4
 
 #define Read_ECHO GPIO_read(&PINB, ECHO)
 
-// Funkce pro inicializaci senzoru
+// Sensor inicialization
 void HC04_Initialize(void);
 
-// Funkce pro měření vzdálenosti
+// Distance measuring function
 float HC04_Measure_Distance(void);
-
-// Pomocná funkce pro resetování časovače
-void HC04_Reset_Timer(void);
 
 #endif // HC04_H
