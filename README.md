@@ -9,7 +9,7 @@
 doplntě to podle toho co jste dělali
 
 ## Hardware description
-
+ ![schematic](images/schematic.png)
  ### doplnit.... line detect, serva, motory ???
  
  ---
