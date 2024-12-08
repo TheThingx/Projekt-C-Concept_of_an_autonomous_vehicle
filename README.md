@@ -2,9 +2,9 @@
 
 ## Team members
 - Tomáš Bukva (HC04_Sensor_library, text editing)
-- Jakub Plachtička (Car_library)
+- Jakub Plachtička (Car_library, Main code)
 - Denis Knap (HC04_Sensor_library)
-- Marek Karlíček (Car_library)
+- Marek Karlíček (Car_library, Main code)
 - 
 doplntě to podle toho co jste dělali
 
