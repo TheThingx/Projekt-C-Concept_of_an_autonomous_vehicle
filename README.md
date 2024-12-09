@@ -57,7 +57,7 @@ Is a infrared receiver and transmiter unit with tunable detection range. We use 
 4.  Echo:  Echo pin for receiving the reflected pulse.
 ---
 
-###OLED display
+### OLED display
 An generic I2C OLED display is used to indicate measured distance from the HC-SR04 ultrasound sensor. The display was also used during the process of coding for troubleshooting.
 
 **Features:**
@@ -72,7 +72,7 @@ An generic I2C OLED display is used to indicate measured distance from the HC-SR
 3.  SCK:  Pin A5
 4.  SDA:  Pin A4
 ---
-###Step-down converter
+### Step-down converter
 We used a step-down converter to bring the voltage from the used battery down to 5 V to provide for the Arduino board. 
 
 ---
