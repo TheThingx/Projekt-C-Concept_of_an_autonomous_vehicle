@@ -20,7 +20,10 @@ Is a infrared receiver and transmiter unit with tunable detection range. We use 
 4. Angle of detection: 35°
 
 **Working principle**
-poprosím někoho bystřejšího v kódu o doplňění
+1. IR transmitter LED emits light continuously
+2. If object/different surface is placed in front of the sensor, emited IR reflects back to the reciever
+3. The comparator circuit in the unit receives a signal from the reciever
+4. The comparator processes the signal and sends it to the OUT pin
 
  **Pinout Description:**
  1. VCC: 5 V power supply
