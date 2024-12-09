@@ -8,7 +8,6 @@
   
 ## Hardware description
  ![schematic](images/schematic.png)
- ### doplnit.... line detect, serva, motory ???
 
 ---
 ### IR sensor FC-51
@@ -73,10 +72,10 @@ An generic I2C OLED display is used to indicate measured distance from the HC-SR
 4.  SDA:  Pin A4
 ---
 ### Step-down converter
-We used a step-down converter to bring the voltage from the used battery down to 5 V to provide for the Arduino board. 
+A step-down converter was used to bring the voltage from the used battery down to 5 V to provide for the Arduino board. 
 
 ---
-We also used a servo motor (already mounted in the car) for steering of the car that was plugged to pin D5, 5 V DC and GND as well as the two drivers for both rear BLDC motors connected to D9 pin and direct power supply from the battery. 
+We also used a servo motor (already mounted in the car) for steering the car that was plugged to pin D5, 5 V DC and GND as well as the two drivers for both rear BLDC motors connected to D9 pin and direct power supply from the battery. 
 
 ## Software description
 
@@ -98,7 +97,7 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
 
 ## Instructions and photos
 
-přidat fotky
+ ![distance_mes](images/IMG_3246 2.JPG)
 
 **FC-51 IR sensor:**
 ![FC-51 IR sensor](https://cdn.myshoptet.com/usr/www.laskakit.cz/user/shop/big/197-1_arduino-ir-opticky-infra-snimac-fc-51.jpg?61d95cd0)
