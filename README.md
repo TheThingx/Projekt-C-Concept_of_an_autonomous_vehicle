@@ -97,17 +97,17 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
 
 ## Instructions and photos
 
-**Distance Measurment**
+**Distance Measurment:**
  ![distance_mes](images/IMG_3246%202.JPG)
  
-**Messy Testing Assembly**
+**Messy Testing Assembly:**
  ![distance_mes](images/rotated_assemly.JPG)
 
 **FC-51 IR Sensor:**
 ![FC-51 IR sensor](https://cdn.myshoptet.com/usr/www.laskakit.cz/user/shop/big/197-1_arduino-ir-opticky-infra-snimac-fc-51.jpg?61d95cd0)
 
 **HC_SR04 Sensor:**
-![HC-SR04 Ultrasonic Distance Sensor - SparkFun | Mouser](https://cz.mouser.com/images/marketingid/2019/img/177109536.png?v=073123.0305)
+![HC-SR04](https://img.gkbcdn.com/p/2015-12-17/hc-sr04-ultrasonic-sensor-distance-measuring-module-3-3v---5v-compatible-for-arduino-nodemcu-1571976572471._w500_.jpg)
 
 
 ## References and tools
