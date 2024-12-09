@@ -104,7 +104,7 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
  ![distance_mes](images/rotated_assemly.JPG)
 
 **TCRT5000 IR Sensor:**
-![TCRT5000 IR sensor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gme.cz%2Fv%2F1507822%2Finfra-senzor-tcrt5000-pro-arduino&psig=AOvVaw2XzceLr1h3UmETvcgtvpvj&ust=1733850192078000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjmx7yVm4oDFQAAAAAdAAAAABAE)
+![TCRT5000 IR sensor](https://img.gme.cz/detail/400/400/eshop_data/eshop_data/11/775-141/pctdetail.775-141.1.webp)
 
 **HC_SR04 Sensor:**
 ![HC-SR04](https://img.gkbcdn.com/p/2015-12-17/hc-sr04-ultrasonic-sensor-distance-measuring-module-3-3v---5v-compatible-for-arduino-nodemcu-1571976572471._w500_.jpg)
