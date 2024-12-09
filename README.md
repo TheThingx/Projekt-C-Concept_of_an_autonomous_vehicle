@@ -20,7 +20,12 @@ Is a infrared receiver and transmiter unit with tunable detection range. We use 
 4. Angle of detection: 35°
 
 **Working principle**
+poprosím někoho bystřejšího v kódu o doplňění
 
+ **Pinout Description:**
+ 1. VCC: 5 V power supply
+ 2. GND: ground pin
+ 3. OUT: pin A1 for the left unit, pin A0 for the right unit
  
  ---
  ### HC-SR04
@@ -70,6 +75,9 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
 ## Instructions and photos
 
 přidat fotky
+
+**FC-51**
+![FC-51 IR sensor - mouser]([https://cz.mouser.com/images/marketingid/2019/img/177109536.png?v=073123.0305](https://rpishop.cz/wp-content/uploads/2020/08/12165-Infracerveny-senzor-FC-51.jpg))
 
 **HC_SR04 Sensor:**
 ![HC-SR04 Ultrasonic Distance Sensor - SparkFun | Mouser](https://cz.mouser.com/images/marketingid/2019/img/177109536.png?v=073123.0305)
