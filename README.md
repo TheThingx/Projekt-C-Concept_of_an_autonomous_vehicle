@@ -76,8 +76,8 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
 
 přidat fotky
 
-**FC-51**
-![FC-51 IR sensor - mouser]([https://cz.mouser.com/images/marketingid/2019/img/177109536.png?v=073123.0305](https://rpishop.cz/wp-content/uploads/2020/08/12165-Infracerveny-senzor-FC-51.jpg))
+**FC-51:**
+![FC-51 IR sensor](https://cdn.myshoptet.com/usr/www.laskakit.cz/user/shop/big/197-1_arduino-ir-opticky-infra-snimac-fc-51.jpg?61d95cd0)
 
 **HC_SR04 Sensor:**
 ![HC-SR04 Ultrasonic Distance Sensor - SparkFun | Mouser](https://cz.mouser.com/images/marketingid/2019/img/177109536.png?v=073123.0305)
