@@ -101,7 +101,7 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
  ![distance_mes](images/IMG_3246%202.JPG)
  
 **Messy Testing Assembly**
- ![distance_mes](images/rotated_assembly.JPG)
+ ![distance_mes](images/rotated_assemly.JPG)
 
 **FC-51 IR Sensor:**
 ![FC-51 IR sensor](https://cdn.myshoptet.com/usr/www.laskakit.cz/user/shop/big/197-1_arduino-ir-opticky-infra-snimac-fc-51.jpg?61d95cd0)
