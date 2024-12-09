@@ -10,6 +10,7 @@
  ![schematic](images/schematic.png)
  ### doplnit.... line detect, serva, motory ???
 
+---
 ### IR sensor FC-51
 Is a infrared receiver and transmiter unit with tunable detection range. We use two of these sensors in our car concept installed under the front bumper. Both of them are used for surface change detection to keep the car following the line on the ground (in our case, the line has been made from a black electric tape).
 
@@ -56,6 +57,26 @@ Is a infrared receiver and transmiter unit with tunable detection range. We use 
 4.  Echo:  Echo pin for receiving the reflected pulse.
 ---
 
+###OLED display
+An generic I2C OLED display is used to indicate measured distance from the HC-SR04 ultrasound sensor. The display was also used during the process of coding for troubleshooting.
+
+**Features:**
+1.  Operating Voltage: 3,3 - 5 V DC.
+2.  Low consumption
+3.  Resolution of 128x64 pixels
+4.  Communication by I2C protocol
+
+**Pinout Description:**
+1.  VCC:  Connects to a 5V power supply
+2.  GND:  Ground pin
+3.  SCK:  Pin A5
+4.  SDA:  Pin A4
+---
+###Step-down converter
+We used a step-down converter to bring the voltage from the used battery down to 5 V to provide for the Arduino board. 
+
+---
+We also used a servo motor (already mounted in the car) for steering of the car that was plugged to pin D5, 5 V DC and GND as well as the two drivers for both rear BLDC motors connected to D9 pin and direct power supply from the battery. 
 
 ## Software description
 
@@ -79,7 +100,7 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
 
 přidat fotky
 
-**FC-51:**
+**FC-51 IR sensor:**
 ![FC-51 IR sensor](https://cdn.myshoptet.com/usr/www.laskakit.cz/user/shop/big/197-1_arduino-ir-opticky-infra-snimac-fc-51.jpg?61d95cd0)
 
 **HC_SR04 Sensor:**
