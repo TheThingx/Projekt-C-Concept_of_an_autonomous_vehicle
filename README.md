@@ -3,21 +3,31 @@
 ## Team members
 - Tomáš Bukva (HC04_Sensor_library, text editing)
 - Jakub Plachtička (Car_library, Main code)
-- Denis Knap (HC04_Sensor_library)
+- Denis Knap (HC04_Sensor_library, text editing)
 - Marek Karlíček (Car_library, Main code)
-- 
-doplntě to podle toho co jste dělali
-
+  
 ## Hardware description
  ![schematic](images/schematic.png)
  ### doplnit.... line detect, serva, motory ???
+
+### IR sensor FC-51
+Is a infrared receiver and transmiter unit with tunable detection range. We use two of these sensors in our car concept installed under the front bumper. Both of them are used for surface change detection to keep the car following the line on the ground (in our case, the line has been made from a black electric tape).
+
+**Features:**
+1. Operating Voltage: 3,3 - 5 V DC
+2. Current consumption (5 V): 43 mA
+3. Detection range: 2 - 30 cm
+4. Angle of detection: 35°
+
+**Working principle**
+
  
  ---
  ### HC-SR04
  Is a popular ultrasonic distance sensor for measuring distances. It operates by emitting ultrasonic waves and measuring the time it takes for the sound waves to bounce back after hitting an obstacle.
  
  **Features:**
-1.  Operating Voltage: 5V DC.
+1.  Operating Voltage: 5 V DC.
 2.  Measuring Range: 2 cm to 400 cm.
 3.  Accuracy: ±3 mm.
 4.  Signal Pins:
