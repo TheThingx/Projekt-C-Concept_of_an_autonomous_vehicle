@@ -10,13 +10,13 @@
  ![schematic](images/schematic.png)
 
 ---
-### IR sensor FC-51
+### IR sensor TCRT50000
 Is a infrared receiver and transmiter unit with tunable detection range. We use two of these sensors in our car concept installed under the front bumper. Both of them are used for surface change detection to keep the car following the line on the ground (in our case, the line has been made from a black electric tape).
 
 **Features:**
 1. Operating Voltage: 3,3 - 5 V DC
 2. Current consumption (5 V): 43 mA
-3. Detection range: 2 - 30 cm
+3. Detection range: 0 - 3 cm
 4. Angle of detection: 35°
 
 **Working principle**
@@ -103,8 +103,8 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
 **Messy Testing Assembly:**
  ![distance_mes](images/rotated_assemly.JPG)
 
-**FC-51 IR Sensor:**
-![FC-51 IR sensor](https://cdn.myshoptet.com/usr/www.laskakit.cz/user/shop/big/197-1_arduino-ir-opticky-infra-snimac-fc-51.jpg?61d95cd0)
+**TCRT5000 IR Sensor:**
+![TCRT5000 IR sensor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gme.cz%2Fv%2F1507822%2Finfra-senzor-tcrt5000-pro-arduino&psig=AOvVaw2XzceLr1h3UmETvcgtvpvj&ust=1733850192078000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjmx7yVm4oDFQAAAAAdAAAAABAE)
 
 **HC_SR04 Sensor:**
 ![HC-SR04](https://img.gkbcdn.com/p/2015-12-17/hc-sr04-ultrasonic-sensor-distance-measuring-module-3-3v---5v-compatible-for-arduino-nodemcu-1571976572471._w500_.jpg)
