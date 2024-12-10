@@ -78,6 +78,10 @@ A step-down converter was used to bring the voltage from the used battery down t
 We also used a servo motor (already mounted in the car) for steering the car that was plugged to pin D5, 5 V DC and GND as well as the two drivers for both rear BLDC motors connected to D9 pin and direct power supply from the battery. 
 
 ## Software description
+### Flow chart diagram
+Here is simple flow chart diagram of the code we have used in our car.
+ ![flowchart_code](images/flowchart.svg)
+
 
 ### Doplnit car library
 ---
