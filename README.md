@@ -17,7 +17,6 @@ Is a infrared receiver and transmiter unit with tunable detection range. We use 
 1. Operating Voltage: 3,3 - 5 V DC
 2. Current consumption (5 V): 43 mA
 3. Detection range: 0 - 3 cm
-4. Angle of detection: 35°
 
 **Working principle**
 1. IR transmitter LED emits light continuously
