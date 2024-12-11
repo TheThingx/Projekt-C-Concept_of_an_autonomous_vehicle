@@ -135,3 +135,12 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
   -  adc_avr.h
   -  gpio.h
   -  twi.h
+**Fritzing** was used for the schematic drawing
+
+**draw.io** was used for the flow chart
+
+**References**
+ - https://github.com/tomas-fryza/avr-course
+ - https://www.gme.cz/v/1507822/infra-senzor-tcrt5000-pro-arduino?srsltid=AfmBOorhLKOO58NVJPKyqr5xNVkWvMmeqtpxm2T8JKIa-_GP8TeW3l09
+ - https://cs.geekbuying.com/item/HC-SR04-Ultrasonic-Sensor-Distance-Measuring-Module-3-3V-5V-Compatible-for-Arduino-NodeMCU-360876.html
+
