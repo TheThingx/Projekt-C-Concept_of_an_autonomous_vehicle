@@ -85,10 +85,12 @@ Here is simple flow chart diagram of the code we have used in our car.
 
 ---
 ### Main
-The working principle of the **main code** is pretty straight forward -- first we initialize all the used components, next we get to an infinite loop, which is responsible for the usage of output data from the sensors and sending signals to the motors and servo using libraries. The behaviour of the vehicle is defined in the main code.
+
+The working principle of the main code is pretty straight forward -- first we initialize all the used components, next we get to an infinite loop, which is responsible for the usage of output data from the sensors and sending signals to the motors and servo using libraries. The behaviour of the vehicle is defined in the main code.
 ---
 ### Car
-In the **car library** there are defined functions for driving (sends data to the drivers of the BLDC motors), steering (data for the servo) and obtaining data from IR sensors.
+
+In the car library there are defined functions for driving (sends data to the drivers of the BLDC motors), steering (data for the servo) and obtaining data from IR sensors.
 ---
 ### HC-SR04
 The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger**  (output) and one for the  **Echo**  (input). Additionally, it relies on  **Timer0**  of the microcontroller for time measurement.
@@ -121,6 +123,7 @@ The  **HC-SR04 library**  uses two pins for operation: one for the  **Trigger** 
 
 ## References and tools
 **Visual studio code - PlatformIO**
+
 **Used libraries:**
   -  uart.h
   -  car.h
